@@ -19,6 +19,9 @@ Currently I'm a Student of Computer Science.I'm a passionate front-end develpoer
 
 ⚡ Fun fact I love to play Cricket, video games and Book reading.
 
+If you want to know to more about me 👇👇👇
+ https://drive.google.com/file/d/1fAiVqDoD2lj4xQpnBJinPopozpls3R4h/view?usp=sharing
+
 
 
  
