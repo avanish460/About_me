@@ -7,9 +7,9 @@ Currently I'm a Student of Computer Science.I'm a passionate front-end develpoer
 
 🔭 I’m currently working as a University Leader at Community Classroom
 
-🌱 I’m currently learning Data Structures and Algorithms.
+🌱 I love Problem Solving.
 
-👯 I’m aslo contributing to OpenSource Projects, Selected as conributor in GWOC'21.
+👯 I’m aslo contributing to OpenSource Projects.
 
 👨‍💻 All of my projects are available at Github
 
@@ -21,7 +21,7 @@ Currently I'm a Student of Computer Science.I'm a passionate front-end develpoer
 
 If you want to know to more about me 👇👇👇
 
- https://drive.google.com/file/d/1fAiVqDoD2lj4xQpnBJinPopozpls3R4h/view?usp=sharing
+[https://drive.google.com/file/d/1f_WwJZlRTulULgd3skl_dpogfAtWxWMz/view?usp=sharing]
 
 
 
